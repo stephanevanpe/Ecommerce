@@ -1,5 +1,5 @@
-Create an Ecommerce Site with React
-The code to accompany this SitePoint tutorial on creating a basic ecommerce site with React, using React Context for state management, and adding a basic method for handling authentication and cart management.
+## Create an Ecommerce Site with React
+Creating a basic ecommerce site with React, using React Context for state management, and adding a basic method for handling authentication and cart management.
 
 Requirements
 Node.js
